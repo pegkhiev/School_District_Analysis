@@ -18,4 +18,4 @@ Using Pandas on Jupyter Notebook, the following steps were taken:
 ## Findings
 
 ### District Summary:
-<img 
+<img width = 600 alt = "district_summary_all_schools" src = 
