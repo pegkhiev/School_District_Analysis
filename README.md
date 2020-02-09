@@ -53,7 +53,7 @@ After the exclusion of 9th grade math and reading scores removed from Thomas Hig
 
 [Math and Reading Score by Grade, Excluding Thomas High School 9th Grades]
 
-<img alt = "math_score_by_grade_filtered" src = https://github.com/pegkhiev/School_District_Analysis/blob/master/Challenge_Files/math_score_by_grade_formatted.png> <img alt = "reading_by_grade_filtered" src = https://github.com/pegkhiev/School_District_Analysis/blob/master/Challenge_Files/Reading_score_by_grade_formatted.png>
+<img alt = "math_score_by_grade_filtered" src = https://github.com/pegkhiev/School_District_Analysis/blob/master/Challenge_Files/math_score_by_grade.png> <img alt = "reading_by_grade_filtered" src = https://github.com/pegkhiev/School_District_Analysis/blob/master/Challenge_Files/Reading_score_by_grade_formatted.png>
 
 The original average math score for Thomas High School 9th grade was 83.6, while the average reading score for the 9th graders was 83.7.  After the removal, the average scores for 9th grade were 0 respectively. 
 
