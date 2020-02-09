@@ -68,10 +68,20 @@ https://github.com/pegkhiev/School_District_Analysis/blob/master/Challenge_Files
 
 The summary of the imapct of removing 9th grade scores from Thomas High School were summarized below: 
 
-|Spending Range ($630-644)|Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing|
+|$630-644 Spending Range|Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing|
 |---|---|---|---|---|---|
-|All Students|78.5|81.6|73|84|63|
-|Exclude Thomas High School 9th Grades| 72.6|75.7|67|77|56|
+All Students|78.5|81.6|73|84|63|
+Exclude Thomas High School 9th Grades| 72.6|75.7|67|77|56|
+
+|Medium School Size (1000-2000)|Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing|
+|---|---|---|---|---|---|
+All Students|83.4|83.9|94|97|91|
+Exclude Thomas High School 9th Grades|78.7|79.1|88|91|85|
+
+|Charter School Type|Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing|
+|---|---|---|---|---|---|
+All Students|83.5|83.9|94|97|90|
+Exclude Thomas High School 9th Grades|80.5|80.9|90|93|87|
 
 
 
