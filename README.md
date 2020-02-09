@@ -35,7 +35,7 @@ Exclude Thomas High School 9th Grade|78|80.9|74|85|64|
 [Excluding Thomas High School 9th grades]
 <img width = 1200 alt = "per_school_summary_filtered" src = https://github.com/pegkhiev/School_District_Analysis/blob/master/Challenge_Files/per_school_summary_formated.png>
 
-There is no change in the performance of all schools except Thomas High School. The impact of excluding 9th grade math and reading scores from Thomas High School is summarized in the table below.  No other performance for Thomas High school was impacted. 
+There is no change in the performance of all schools except Thomas High School. The impact of excluding 9th grade math and reading scores from Thomas High School is summarized in the table below. 
 
 |Thomas High School|Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing|
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@ The original average math score for Thomas High School 9th grade was 83.6, while
 <img alt = "scores_by_type_filtered" src = 
 https://github.com/pegkhiev/School_District_Analysis/blob/master/Challenge_Files/scores_by_type_formatted.png>
 
-The summary of the imapct of removing 9th grade scores from Thomas High School were summarized below: 
+The imapct of removing 9th grade scores from Thomas High School was summarized below: 
 
 |$630-644 Spending Range|Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing|
 |---|---|---|---|---|---|
